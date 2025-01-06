@@ -1,4 +1,4 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Desafio: Natural ou Fake Natty? 💘
 
 ## 📒 Descrição
 Este e-book foi revisado pelo ChatGPT como proposta do Desafio "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!." do BootCamp CAIXA - IA Generativa com Microsoft Copilot.
